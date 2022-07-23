@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/static/css/main.cd169d7d.css",
+    "main.js": "/static/js/main.89a49bd7.js",
+    "static/media/background-home.png": "/static/media/background-home.80828a4a62801c27fac0.png",
+    "static/media/unicorn.png": "/static/media/unicorn.595105ab4301798cb10b.png",
+    "static/media/DAIKI MIYAMA, [Mar 6, 2022 at 15_56]_https__15.gigafile 2.png": "/static/media/DAIKI MIYAMA, [Mar 6, 2022 at 15_56]_https__15.gigafile 2.a100ed383bc28f3292e2.png",
+    "static/media/DAIKI MIYAMA, [Mar 6, 2022 at 15_56]_https__15.gigafile 3.png": "/static/media/DAIKI MIYAMA, [Mar 6, 2022 at 15_56]_https__15.gigafile 3.5e8c25f3c4f1121b91f4.png",
+    "static/media/Jeanne D’Arc.png": "/static/media/Jeanne D’Arc.bcac41fc84f377353185.png",
+    "static/media/Chaplin.png": "/static/media/Chaplin.6a2d47ad7dd317e4f05e.png",
+    "static/media/Mozart.png": "/static/media/Mozart.cd01dea46bf39a502f45.png",
+    "static/media/Armstrong.png": "/static/media/Armstrong.d4aabc31a37e5c024b1e.png",
+    "static/media/logo.png": "/static/media/logo.a789f82bfba31f2abf58.png",
+    "static/media/regular.png": "/static/media/regular.0a82f7ebd6e114508e10.png",
+    "static/media/KK-2-2.png": "/static/media/KK-2-2.b0228ea6b9fef44335a3.png",
+    "static/media/KK-2-5.png": "/static/media/KK-2-5.48938e2ef3f78582d758.png",
+    "static/media/KK-2-3.png": "/static/media/KK-2-3.cf73f5afc8c165e620d2.png",
+    "static/media/KK-2-1.png": "/static/media/KK-2-1.43dac528ce4f79a74beb.png",
+    "static/media/KK-2-4.png": "/static/media/KK-2-4.be788735cfd8baa4cc18.png",
+    "static/media/KK-2.png": "/static/media/KK-2.cd9696de5bc3f3244302.png",
+    "static/media/discord.svg": "/static/media/discord.dbd364b5d74b67966d0d2422f1acc6cc.svg",
+    "static/media/dark-linkedin.svg": "/static/media/dark-linkedin.3eacd2ed819af0d60f828c791cfb4941.svg",
+    "static/media/linkedin.svg": "/static/media/linkedin.965e0dc61ae106d9f4094ba3ab484542.svg",
+    "static/media/instagram.svg": "/static/media/instagram.a7a20b7e4b3a1f54159431a57a3df6d3.svg",
+    "static/media/dark-insta.svg": "/static/media/dark-insta.4bcc1af902ea1905a52e3b9b65eb369a.svg",
+    "static/media/twitter.svg": "/static/media/twitter.ca9b38cb3cf9228cf0d40f4de5241fdf.svg",
+    "static/media/dark-twitter.svg": "/static/media/dark-twitter.f4bedb89f3769cb81033b80581a9016e.svg",
+    "static/media/email.svg": "/static/media/email.452105d7d6aaeacaaaa8eb70487eca0d.svg",
+    "index.html": "/index.html",
+    "static/media/cross.svg": "/static/media/cross.3b5b36e529a5cb6655b5.svg",
+    "main.cd169d7d.css.map": "/static/css/main.cd169d7d.css.map",
+    "main.89a49bd7.js.map": "/static/js/main.89a49bd7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cd169d7d.css",
+    "static/js/main.89a49bd7.js"
+  ]
+}
